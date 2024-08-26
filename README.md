@@ -21,16 +21,16 @@ As the dataset had over a million rows, random sampling was performed to reduce 
 Linear regression is ideal for quantifying the relationship between continuous variables, along with providing coefficients that measure strength and direction of these variables (James, et al 2023). This project has a focus on how departure delays, flight distance and airlines impact arrival delays, making it a preference to other methods of analysis. The drawbacks of linear regression are that it’s sensitive to outliers and can affect the regression line and skew results (Seber & Lee, 2012).
 
 To understand the dataset better, some key descriptive statistics such as mean, median and standard deviation were calculated for departing & arriving delays and distance (Figure 12). On average, departing flights were delayed by 9.7 minutes in comparison to arriving flights being 3.8 minutes delayed. This suggests that delays are being slightly mitigated during the flight and could be due to operational adjustments such as flight paths, speeds or air traffic control assisting with routing.
-
+## Figure 12
 ![EDA](assets/12.png)
 
 Correlation analysis was conducted to assess the relationship between departure delays and arrival delays (Figure 13). Results from this found a very strong positive relationship indicating that departure delays are a significant predictor of arrival delays.
-
+## Fiugre 13
 ![CorrelationAnalysis](assets/13.png)
 
 By enabling the Data Analysis ToolPak feature on Excel, a linear regression analysis was performed due to the 3 independent variables in the data (Figure 14). The arrival delay was the dependent variable and the departure delay, flight distance and encoded airline were the independent variables for this study.
 
-
+## Figure 14
 ![LR](assets/14.png)
 
 There is a strong correlation coefficient of 0.96, indicating a very strong relationship between the independent variables and the dependent variable. Followed by a strong R square score which shows that 92.45% of the variance in the arrival delay time can be explained by the independent variables. The coefficient indicated that for every minute increase in departure delay, the arrival delay increased by about 1.009 minutes which is expected. The coefficient for distance suggests that for every mile in distance the arrival delay slightly decreases, however the effect is very minimal. A reason for this is more time to change flight path and save time. 
@@ -38,14 +38,14 @@ There is a strong correlation coefficient of 0.96, indicating a very strong rela
 Visualization & Dashboards
 
 The first visualization is a scatter plot with a linear regression line, clearly demonstrating a strong relationship between departure delays and arrival delays (Figure 15). The R squared further backs up the point of a strong relationship.
-
+## Figure 15
 ![ScatterGraph](assets/15.png)
 
 Power BI was utilized to showcase the airlines with the highest arrival delays (Figure 16). JetBlue Airways had the highest delay time in comparison to Alaska Airlines who typically arrived early on average. This information could be fed back to airlines and work could be done to ipove operational efficient.
-
+## Figure 16
 ![airlinedelay](assets/16.png)
 Interesting the airline with the least average delay times, also had the largest average flight time which suggests that due to long distance flights, the airline might have optimized its operations for long haul flight due to better logistics, experience cred or more reliable aircrafts (Figure 17).
-
+## FIgure 17
 ![airlinedistance](assets/17.png)
 
 The analysis revealed a strong correlation between departure delays and arrival delays which can be seen on the scatter plot with the trendline. Overall, these insights highlight the importance of operational strategies and scheduling practices in mitigating delays, warranting further investigation into the factors contributing to these efficiencies.
