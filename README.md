@@ -1,7 +1,14 @@
 # Data-Science-Project
 This is my mini Data Science Project on Airline Delays
-# Heading 1
+# Exec Summary
 
-## Heading 2
+# Introduction
 
-### Heading 3
+# Methodology
+
+## Data Collection & Preparation
+
+### Data Cleaning
+
+# Analysis
+
