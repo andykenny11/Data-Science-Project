@@ -10,7 +10,7 @@ Flight delays are a critical issue in the aviation industry, affecting passenger
 The dataset used for this project was sourced from Kaggle and it entailed a comprehensive collection of flight delays data spanning from 2019 to 2023. The dataset contains detailed information on various aspects of flight operations, including departure and arrival time, origin and destination, airline identifiers and distance travelled. 
 
 To facilitate an easier understanding, it was necessary to rename some columns in the dataset to clearly label them making it simpler to reference throughout the analysis (Figure 10). Columns were rearranged which needed to do be for the regression analysis alongside making the data clearer to view and understand.
-# image
+# Figure 10
 ![DataCleaning](assets/10.png)
 
 As the dataset had over a million rows, random sampling was performed to reduce the data to a more manageable size as excel struggles with large datasets and often slows down the process (Guerrero et al, 2019). I selected 12915 rows randomly to ensure the sample remained representative of the overall dataset. Missing values were examined and removed due to irrelevance to the analysis, I checked for duplicates using the ‘Remove Duplicates’ function on excel. Data encoding is a crucial step when preparing data for linear regression and as the airline column was categorical data, it needed to be converted to a numerical format (Hamadani et al, 2023). A separate sheet was created called ‘Airline Encoding’ listing the airlines and given each a number and a VLOOKUP formula was created to link it back to the main table (Figure 11).
