@@ -50,7 +50,7 @@ Interesting the airline with the least average delay times, also had the largest
 
 The analysis revealed a strong correlation between departure delays and arrival delays which can be seen on the scatter plot with the trendline. Overall, these insights highlight the importance of operational strategies and scheduling practices in mitigating delays, warranting further investigation into the factors contributing to these efficiencies.
 
-Discussion
+# Discussion
 This project identified significant patterns in the relationship between departure delays, flight distance and arrival delays. Notably, the strong correlation between departure and arrival delays underscores the importance of managing departure times to begin with. An interesting finding found the airline with the highest average distance had the lowest average arrival delays suggesting effective long-haul flight management. This project has stated its limitations and there are potential areas for further research. One may be to use a SQL database which would be more efficient than excel for handling large datasets. Ethical considerations are important for this project as it is important to present findings without bias towards airlines. 
 
 Future research could include weather delays, air traffic and airport congestion to understand their impact on delays, thus providing a more comprehensive view. Research over an extended period may be beneficial as it may be able to capture trends over time and include seasonality. This will help with generalizability and validating findings. Machine learning models like Python or R may be implemented in the future to identify complex patterns not captured by linear regression. 
