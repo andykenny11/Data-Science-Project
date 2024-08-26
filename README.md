@@ -56,13 +56,8 @@ This project identified significant patterns in the relationship between departu
 Future research could include weather delays, air traffic and airport congestion to understand their impact on delays, thus providing a more comprehensive view. Research over an extended period may be beneficial as it may be able to capture trends over time and include seasonality. This will help with generalizability and validating findings. Machine learning models like Python or R may be implemented in the future to identify complex patterns not captured by linear regression. 
 
 # References
-Civil Aviation Authority (2023) Airport accessibility report – 2022/23. Available at: https://www.caa.co.uk/publication/download/20536 (Accessed: 18 August 2024). 
-
 
 Deshpande, V. and Arıkan, M., 2012. The impact of airline flight schedules on flight delays. Manufacturing & Service Operations Management, 14(3), pp.423-440.
-
-
-Graham, A., 2023. Managing airports: An international perspective. Routledge.
 
 
 Guerrero, H., Guerrero, R. and Rauscher, 2019. Excel data analysis. Springer International Publishing.
@@ -71,40 +66,11 @@ Guerrero, H., Guerrero, R. and Rauscher, 2019. Excel data analysis. Springer Int
 Hamadani, A., Ganai, N.A. and Bashir, J., 2023. Artificial neural networks for data mining in animal sciences. Bulletin of the National Research Centre, 47(1), p.68.
 
 
-
 Hansen, M., & Zhang, Y. (2020). The cascading effects of flight delays in the U.S. domestic airline network. Transportation Research Part E: Logistics and Transportation Review, 142, 102068.
-
-
-Hargreaves, B.R. and McWilliams, T.P., 2010. Polynomial trendline function flaws in Microsoft Excel. Computational Statistics & Data Analysis, 54(4), pp.1190-1196.
-
-
-Hyndman, R.J. and Athanasopoulos, G., 2018. Forecasting: principles and practice. OTexts.
-
-
-
-International Air Transport Association (IATA). (2020). Accessibility in Aviation: Ensuring the Air Transport System is Open to All. IATA.
 
 
 James, G., Witten, D., Hastie, T., Tibshirani, R. and Taylor, J., 2023. Linear regression. In An introduction to statistical learning: With applications in python (pp. 69-134). Cham: Springer International Publishing.
 
 
-Marr, B., 2016. Big data in practice: how 45 successful companies used big data analytics to deliver extraordinary results. John Wiley & Sons.
-
-
-McFedries, P., 2013. Excel 2013 Formulas and Functions. Que Publishing.
-
-
-Montgomery, D.C., Peck, E.A. and Vining, G.G., 2021. Introduction to linear regression analysis. John Wiley & Sons.
-
-
-Ravishankar, T. Nadana, and Komarasamy, G. (2022) 'Application of Time Series Analysis for Better Decision-Making in Business', Technoarete Transactions on Intelligent Data Mining and Knowledge Discovery
-
-
 Seber, G.A. and Lee, A.J., 2012. Linear regression analysis. John Wiley & Sons.
 
-
-Wensveen, J. G. (2016). Air Transportation: A Management Perspective (8th ed.). Ashgate Publishing
-
-
-Yeoh, K. A., & Chan, A. P. (2018). Seasonal Trends in Air Passenger Traffic: A Comparative Study. Journal of Transport Geography, 70, 88-97.
-ces
