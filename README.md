@@ -14,4 +14,4 @@ This is my mini Data Science Project on Airline Delays
 
 # image
 
-![EXAMPLE] (assets/Data Science Project/10 - Data Source & Prep.png) 
+
