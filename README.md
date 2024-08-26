@@ -55,7 +55,8 @@ This project identified significant patterns in the relationship between departu
 
 Future research could include weather delays, air traffic and airport congestion to understand their impact on delays, thus providing a more comprehensive view. Research over an extended period may be beneficial as it may be able to capture trends over time and include seasonality. This will help with generalizability and validating findings. Machine learning models like Python or R may be implemented in the future to identify complex patterns not captured by linear regression. 
 
-# ReferenCivil Aviation Authority (2023) Airport accessibility report – 2022/23. Available at: https://www.caa.co.uk/publication/download/20536 (Accessed: 18 August 2024). 
+# References
+Civil Aviation Authority (2023) Airport accessibility report – 2022/23. Available at: https://www.caa.co.uk/publication/download/20536 (Accessed: 18 August 2024). 
 
 
 Deshpande, V. and Arıkan, M., 2012. The impact of airline flight schedules on flight delays. Manufacturing & Service Operations Management, 14(3), pp.423-440.
